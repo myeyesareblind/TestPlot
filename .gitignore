@@ -1,0 +1,10 @@
+# Build products
+DerivedData/
+# Xcode files
+*.pbxuser
+*.mode1v3
+TestPlotting.xcodeproj/project.xcworkspace/
+TestPlotting.xcodeproj/xcuserdata/
+.DS_Store
+# Other files
+libs/*
